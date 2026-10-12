@@ -5,7 +5,7 @@ It measures throughput, language mix, engagement, growth, retention and email pe
 The goal is to show how a data analyst monitors operations and explains metric spikes and dips.
 
 ## Project Files
-
+ 
 | File | Description |
 |---|---|
 | [Operations_Analytics (Project 3A).sql](Operations_Analytics%20%28Project%203A%29.sql) | Case Study 1: creates `job_db`, inserts 8 rows, answers 4 questions |
